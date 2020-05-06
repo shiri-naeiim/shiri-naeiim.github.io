@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Homework 1 vocabulary questions
 
-You can use the [editor on GitHub](https://github.com/shiri-naeiim/shiri-naeiim/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## *Naeiim Shiri - Level 5*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Date: 5/6/2020**
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* What are some basic rules of etiquette in your country?
 
-```markdown
-Syntax highlighted code block
+>> Greeting elder people first to show respect, and shake everyone's hand individually.
+>>
+>> The most important rule is to support your words with appropriate gestures and behavior.
+>> For instance, it is so common to offer a portion of what one is about to eat or drink to everyone.
+>>
+>> Apologize for the inadequacy of your gift and favor is so common (it’s the polite thing to do according to Ta’arof).
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+* Is punctuality considered important in your country?
 
-1. Numbered
-2. List
+>> Punctuality is so poor in our culture.
+>>
+>> It is polite to apologize for being late but delays are so common even in business meetings.
+>>
+>> Meetings that scheduled weeks or months ago change at last minutes, It is not what people want to confess but it doesn't change the fact.
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+* What considered offensive in your country?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+>> It is rude to stare at people. engaging in eye contact for a long time especially at the opposite gender.
+>>
+>> Talking over someone is an aggressive act too, When someone interrupts a conversation, they show disregard and disrespect for the person speaking.
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shiri-naeiim/shiri-naeiim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Are handshakes customary in your country?
 
-### Support or Contact
+>> Yes, a handshake is the more common greeting
+>> but you must know that physical contact with non-family members of the opposite gender is forbidden. - young children are exceptional.
+>>
+>> people use handshake for very different usages like greeting, show respect, accept a deal, intimacy, stop a Hostility,... .
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
