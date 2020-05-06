@@ -1,10 +1,12 @@
-# Homework 1 vocabulary questions
+# Homework 1
 
 ## *Naeiim Shiri - Level 5*
 
 ### **Date: 5/6/2020**
 
 ---
+
+#### vocabulary questions
 
 * What are some basic rules of etiquette in your country?
 
@@ -42,3 +44,41 @@
 >>
 >> people use handshake for very different usages like greeting, show respect, accept a deal, intimacy, stop a Hostility,... .
 
+---
+---
+---
+
+#### workbook (Exes13-14-15)
+
+* 13
+
+1. polite
+2. customary
+3. nice
+4. not usual
+5. punctuality
+
+---
+
+* 14
+
+1. false
+2. false
+3. true
+4. true
+5. no information
+6. false
+
+---
+
+* 15
+
+| task | importance | why |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| work or school:               |  very important               | Because always there is a punishment for being late at work or school|
+| dinner at a friend house:     |  somewhat important           | Because friends have each other back in hard times and you can count on their kindness if there was any problem but you must be careful to don't make them sad for unpunctuality      |
+| a meeting with co-worker:     |  very important               | Because being late at work can reduce your respect at work and make a negative image from you among Colleagues  |
+| a doctor's appointment:       |  very important               | Because I must make a new appointment if I miss it |
+| a move:                       |  not important                | Because I always watch movies online at home and I can play it whenever I want     |
+
+---
