@@ -42,7 +42,7 @@
 >> Yes, a handshake is the more common greeting
 >> but you must know that physical contact with non-family members of the opposite gender is forbidden. - young children are exceptional.
 >>
->> people use handshake for very different usages like greeting, show respect, accept a deal, intimacy, stop a Hostility,etc .
+>> people use handshake for very different usages like greeting, show respect, accept a deal, intimacy, stop a Hostility, etc.
 
 ---
 ---
