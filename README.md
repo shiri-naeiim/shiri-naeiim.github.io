@@ -317,7 +317,7 @@ Exercise 17
 | weakness    | vitamins  | They may give energy.  |
 | coughing     | cough medicine  | It can help reduce coughing.  |
 | stomach problems | an antacid , Aluminum Hydroxide Gel Oral | It can help reduce stomachaches - Liquid antacids usually work faster/better than tablets or capsules. This medication works only on existing acid in the stomach. It does not prevent acid production. |
-| a burn from hot oil    | an ointment  | It can help reduce the burning |
+| a burn from hot oil    | an ointment , Cool water. Cool compresses. Antibiotic . Aloe vera. Honey. Reducing sun exposure.  | It can help reduce the burning |
 | red eyes | eye drops  | They can help get rid of burning. |
 | an infection     | an antibiotic - amoxicillin, erythromycin and ciprofloxacin  | It can help fight the infection  |
 
