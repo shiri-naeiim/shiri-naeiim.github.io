@@ -128,7 +128,7 @@ Exercise 12
 
  1. eaten my breakfast
  2. finished my report
- 3. learned some basic vocabulary - known English grammer
+ 3. learned some basic vocabulary - known English grammar
 
 Exercise 13
   
