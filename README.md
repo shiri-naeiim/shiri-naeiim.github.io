@@ -48,26 +48,104 @@
 ---
 ---
 
-#### workbook (Exes13-14-15)
+#### workbook
 
-* 13
+Exercise 1
 
+ 1. appropriate
+ 2. inappropriate
+ 3. inappropriate
+ 4. appropriate
+ 5. inappropriate
+
+Exercise 2
+
+ 1. c
+ 2. e
+ 3. b
+ 4. a
+ 5. d
+
+Exercise 4
+ 1, 4, 2, 5, 6, 3
+
+Exercise 5
+
+1. did he
+2. isn’t it
+3. didn’t you
+4. won’t he
+5. are you
+6. was it
+7. aren’t I
+8. were there
+
+Exercise 6
+
+⦁ will / ‘ll be; won’t you
+⦁ hasn’t gotten; has she
+⦁ wasn’t; was he
+⦁ doesn’t like; does she
+
+Exercise 7
+⦁ You’re not married, are you?
+⦁ You like to be addressed by your first name, don’t you?
+⦁ You are 25 years old, aren’t you?
+⦁ You don’t live in Hong Kong, do you?
+⦁ You go to school, don’t you?
+
+Exercise 8
+
+ 1. yes
+ 2. no
+ 3. yes
+ 4. no
+no answer reason : Because it is personal information and you must respect every one privavy  
+
+Exercise 9
+
+ 1. a
+ 2. b
+ 3. b
+ 4. a
+ 5. a
+
+Exercise 10
+⦁ had already given; hadn’t yet taken
+⦁ had already read
+⦁ hadn’t yet had
+⦁ hadn’t yet exercised
+⦁ had already gone
+
+Exercise 11
+
+ 1. a
+ 2. a
+ 3. b
+ 4. b
+
+Exercise 12
+
+ 1. eaten my breakfast
+ 2. finished my report
+ 3. learned some basic vocabulary - known English grammer
+
+Exercise 13
+  
 1. polite
 2. customary
 3. nice
 4. not usual
 5. punctuality
 
----
+Exercise 14
 
-* 14
-
-1. false
-2. false
-3. true
-4. true
-5. no information
-6. false
+ 1. False
+ 2. False
+ 3. True
+ 4. True
+ 5. No information
+ 6. False
 
 ---
 
@@ -82,3 +160,23 @@
 | a move:                       |  not important                | Because I always watch movies online at home and I can play it whenever I want     |
 
 ---
+
+Exercise 16
+
+1. You should arrive five minutes before the hour set for the dinner.
+2. You should apologize before taking your seat.
+5. You should wait for others to be served before you start eating.
+6. If you re the hostess, you should wait until the guests are done eating before leaving the table.
+7. You should wait at least 30 minutes before you leave.
+
+Exercise 17
+
+ 1. a 
+ 2. b
+ 3. a
+ 4. b
+ 5. c
+
+Exercise 18
+
+Exercise 19
