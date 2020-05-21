@@ -202,7 +202,10 @@ Exercise 1
 Exercise 2
 
 extra medication
+
 the name and number if a doctor at your destination
+
+first aid kit
 
 Exercise 3
 
