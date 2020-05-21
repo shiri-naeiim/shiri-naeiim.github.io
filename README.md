@@ -308,3 +308,16 @@ Exercise 16
 | herbal therapy | They are both natural treatments. They are ancient treatments.  |  It uses teas as and pills.   |
 | acupuncture    | They both believe areas of the body are connected. | It uses needles.  |
 
+Exercise 17
+
+| Symptom | Medication | Reason |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| Sneezing     | cold tablets, antihistamine , acetaminophen , nasal spray, cold stop pill -  Adult Cold Remedies  | They can all help reduce sneezing  |
+| a toothache       | a painkiller  | It relives pain |
+| weakness    | vitamins  | They may give energy.  |
+| coughing     | cough medicine  | It can help reduce coughing.  |
+| stomach problems | an antacid , Aluminum Hydroxide Gel Oral | It can help reduce stomachaches - Liquid antacids usually work faster/better than tablets or capsules. This medication works only on existing acid in the stomach. It does not prevent acid production. |
+| a burn from hot oil    | an ointment  | It can help reduce the burning |
+| red eyes | eye drops  | They can help get rid of burning. |
+| an infection     | an antibiotic - amoxicillin, erythromycin and ciprofloxacin  | It can help fight the infection  |
+
