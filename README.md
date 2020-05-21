@@ -299,6 +299,6 @@ Exercise 16
 | Type of treatment | How it’s similar to reﬂexology | How it’s different from reﬂexology |
 | ----------------------------- | ----------------------------- | ----------------------------- |
 | homeopathy     | They are both natural treatments. They are ancient treatments.  | It uses remedies that cause similar symptoms|It uses t as and pills. |
-| herbal therapy | They are both natural treatments. They are ancient treatments.  |  It uses t as and pills.   |
+| herbal therapy | They are both natural treatments. They are ancient treatments.  |  It uses teas as and pills.   |
 | acupuncture    | They both believe areas of the body are connected. | It uses needles.  |
 
