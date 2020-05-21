@@ -190,3 +190,107 @@ It is hard to answer this question but in my opinion, it is a good practice for 
 ---
 
 Unit 2
+
+
+Exercise 1
+
+1. toothache
+2. swollen gums
+3. lost filling
+4. broken tooth
+
+Exercise 3
+
+1. b
+2. c
+3. c
+4. b
+
+Exercise 4
+
+1. chest
+2. weak
+3. nauseous
+4. sneezing
+5. coughing
+6. stomach
+
+Exercise 5
+
+1. must be
+2. must not feel
+3. must hurt
+4. must have
+5. must not be
+6. must not want
+
+Exercise 6
+
+1. must
+2. must
+3. must not
+4. must
+5. must not
+6. must not
+
+Exercise 8
+
+1. a blood test
+2. a shot
+3. an X-ray
+4. An EKG
+5. a checkup
+
+Exercise 9
+
+1. an appointment
+2. a pain
+3. chest
+4. an EKG
+5. fit
+6. appreciate
+
+Exercise 10
+
+1. Yes
+2. No
+3. No information
+4. Yes
+5. No
+
+Exercise 11
+
+1. may
+2. must
+3. must
+4. might
+5. must
+6. might
+7. will
+
+Exercise 12
+
+⦁ may not / might not be able to
+⦁ may not / might not be able to
+⦁ may / might be able to
+⦁ must not be able to
+
+Exercise 13
+
+⦁ acupuncture, herbal therapy, homeopathy, spiritual healing
+⦁ acupuncture
+⦁ conventional medicine
+⦁ spiritual healing
+⦁ herbal therapy
+⦁ homeopathy
+
+Exercise 15
+
+Exercise 16
+
+| Type of treatment | How it’s similar to reﬂexology | How it’s different from reﬂexology |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| homeopathy     | They are both natural treatments. They are ancient treatments.  | It uses remedies that cause similar symptoms|It uses t as and pills. |
+| herbal therapy | They are both natural treatments. They are ancient treatments.  |  It uses t as and pills.   |
+| acupuncture    | They both believe areas of the body are connected. | It uses needles.  |
+
