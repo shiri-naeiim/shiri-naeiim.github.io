@@ -42,7 +42,7 @@
 >> Yes, a handshake is the more common greeting
 >> but you must know that physical contact with non-family members of the opposite gender is forbidden. - young children are exceptional.
 >>
->> people use handshake for very different usages like greeting, show respect, accept a deal, intimacy, stop a Hostility,... .
+>> people use handshake for very different usages like greeting, show respect, accept a deal, intimacy, stop a Hostility,etc .
 
 ---
 ---
@@ -102,7 +102,7 @@ Exercise 8
  2. no
  3. yes
  4. no
-no answer reason: Because it is personal information and you must respect every one privacy  
+no answer reason: Because it is personal information and you must respect everyone privacy  
 
 Exercise 9
 
@@ -185,7 +185,7 @@ During the latest years, most people changed their clothing style to modern, wes
 
 Exercise 19
 
-It is hard to answer this question but in my opinion, it is a good practice for Iranian society to defend its freedom in basic rights like freedom to choose clothing by Civil disobedience and learn to play the decisionmaker rule in their own lifestyle instead of taking orders from a minority.
+It is hard to answer this question but in my opinion, it is a good practice for Iranian society to defend its freedom in basic rights like freedom to choose clothing by Civil disobedience and learn to play the decisionmaker rule in their lifestyle instead of taking orders from a minority.
 
 ---
 
