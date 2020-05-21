@@ -199,6 +199,11 @@ Exercise 1
 3. lost filling
 4. broken tooth
 
+Exercise 2
+
+extra medication
+the name and number if a doctor at your destination
+
 Exercise 3
 
 1. b
