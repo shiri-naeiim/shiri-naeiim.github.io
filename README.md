@@ -179,4 +179,6 @@ Exercise 17
 
 Exercise 18
 
+During the latest years, most people changed their clothing style to modern, western, or Turkish design. Iranian cloth designers weren't much successful in design styles based on traditional or native clothing styles as a result the etiquettes was most based on freedom instead of restricted clothing and hijab that is continuously enforced by government.
+
 Exercise 19
