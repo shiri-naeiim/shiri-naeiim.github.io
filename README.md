@@ -10,7 +10,7 @@
 
 * What are some basic rules of etiquette in your country?
 
->> Greeting elder people first to show respect, and shake everyone's hand individually.
+>> Greeting elder people first to show respect and shake everyone's hand individually.
 >>
 >> The most important rule is to support your words with appropriate gestures and behavior.
 >> For instance, it is so common to offer a portion of what one is about to eat or drink to everyone.
@@ -49,6 +49,8 @@
 ---
 
 #### workbook
+
+##### Unit 1
 
 Exercise 1
 
@@ -100,7 +102,7 @@ Exercise 8
  2. no
  3. yes
  4. no
-no answer reason : Because it is personal information and you must respect every one privavy  
+no answer reason: Because it is personal information and you must respect every one privacy  
 
 Exercise 9
 
@@ -155,7 +157,7 @@ Exercise 14
 | ----------------------------- | ----------------------------- | ----------------------------- |
 | work or school:               |  very important               | Because always there is a punishment for being late at work or school|
 | dinner at a friend house:     |  somewhat important           | Because friends have each other back in hard times and you can count on their kindness if there was any problem but you must be careful to don't make them sad for unpunctuality      |
-| a meeting with co-worker:     |  very important               | Because being late at work can reduce your respect at work and make a negative image from you among Colleagues  |
+| a meeting with a co-worker:     |  very important               | Because being late at work can reduce your respect at work and make a negative image from you among Colleagues  |
 | a doctor's appointment:       |  very important               | Because I must make a new appointment if I miss it |
 | a move:                       |  not important                | Because I always watch movies online at home and I can play it whenever I want     |
 
@@ -182,3 +184,9 @@ Exercise 18
 During the latest years, most people changed their clothing style to modern, western, or Turkish design. Iranian cloth designers weren't much successful in design styles based on traditional or native clothing styles as a result the etiquette was most based on freedom instead of restricted clothing and hijab that is continuously enforced by government.
 
 Exercise 19
+
+It is hard to answer this question but in my opinion, it is a good practice for Iranian society to defend its freedom in basic rights like freedom to choose clothing by Civil disobedience and learn to play the decisionmaker rule in their own lifestyle instead of taking orders from a minority.
+
+---
+
+Unit 2
