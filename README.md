@@ -339,3 +339,7 @@ Exercise 17
 | red eyes | eye drops  | They can help get rid of burning. |
 | an infection     | an antibiotic - amoxicillin, erythromycin and ciprofloxacin  | It can help fight the infection  |
 
+Exercise 17
+
+All items are prescription not needed
+
