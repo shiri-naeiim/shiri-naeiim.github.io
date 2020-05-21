@@ -294,6 +294,12 @@ Exercise 13
 
 Exercise 15
 
+ 1. a
+ 2. b
+ 3. a
+ 4. b
+ 5. d
+
 Exercise 16
 
 | Type of treatment | How it’s similar to reﬂexology | How it’s different from reﬂexology |
