@@ -292,6 +292,16 @@ Exercise 13
 
 ⦁ homeopathy
 
+Exercise 14
+
+| treatment kind  | Pros | Cons |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+|  acupuncture |  It can help you quit smoking. It's 5,000 years old , so it must work | I don't like needles|
+| Conventional medicine  | It's based on scientific experiments and methods   | it is expensive in some cases and it hasn't treatment for all illnesses|
+|  herbal therapy | it is cheap  | it is not reliable and we can't control Dosage of the drug within the herbal |
+| homeopathy  | pseudoscientific - it is not a valid treatment system and I don't know why it is in this book  | it is harmful to use pseudoscientific approach about health issues |
+| spiritual healing  | can give hope people when there is no scientific way to cure your illnesses, meditation can be useful in some cases approved by science | people can ignore valid and known medicine and don't accept Conventional medicine and make a disaster from simple illness that solved very long time ago  |
+
 Exercise 15
 
  1. a
