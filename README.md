@@ -271,17 +271,25 @@ Exercise 11
 Exercise 12
 
 ⦁ may not / might not be able to
+
 ⦁ may not / might not be able to
+
 ⦁ may / might be able to
+
 ⦁ must not be able to
 
 Exercise 13
 
 ⦁ acupuncture, herbal therapy, homeopathy, spiritual healing
+
 ⦁ acupuncture
+
 ⦁ conventional medicine
+
 ⦁ spiritual healing
+
 ⦁ herbal therapy
+
 ⦁ homeopathy
 
 Exercise 15
