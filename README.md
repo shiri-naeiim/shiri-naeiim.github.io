@@ -315,7 +315,7 @@ Exercise 17
 | Sneezing     | cold tablets, antihistamine , acetaminophen , nasal spray, cold stop pill -  Adult Cold Remedies  | They can all help reduce sneezing  |
 | a toothache       | a painkiller  | It relives pain |
 | weakness    | vitamins  | They may give energy.  |
-| coughing     | cough medicine  | It can help reduce coughing.  |
+| coughing     | cough medicine , Cough Syrup , Probiotics , Honey , Bromelain , Peppermint , Salt and water gargle | It can help reduce coughing.  |
 | stomach problems | an antacid , Aluminum Hydroxide Gel Oral | It can help reduce stomachaches - Liquid antacids usually work faster/better than tablets or capsules. This medication works only on existing acid in the stomach. It does not prevent acid production. |
 | a burn from hot oil    | an ointment , Cool water. Cool compresses. Antibiotic . Aloe vera. Honey. Reducing sun exposure.  | It can help reduce the burning |
 | red eyes | eye drops  | They can help get rid of burning. |
