@@ -6,6 +6,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Test Document</title>
+  
+  <script>
+    //wait until the dom is loaded
+    $(document).ready(function () {
+        //adds menu.html content into any "#menu" element
+        $('#menu').load('menu.html');
+    });
+  </script>
+
 </head>
 <body>
   
